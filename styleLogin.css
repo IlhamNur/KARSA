@@ -1,0 +1,36 @@
+body {
+    background-image: url('img/bg.png');
+    background-color: #F3F6F7;
+    background-size: cover;
+    background-position: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+ }
+
+section h1 {
+    float: left;
+}
+
+header img {
+    float: left;
+}
+
+.signin {
+    float: right;
+    box-sizing: content-box;
+    box-shadow: 4px 6px #7E8DA4;;
+    border: none;
+    background-color: white;
+    background-size: 40%;
+    padding-bottom: 30px;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.headsign {
+    font-family: Poppins;
+    font-size: 48px;
+    text-align: center;
+}
+
